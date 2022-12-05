@@ -1,0 +1,1 @@
+[Code Reference](https://github.com/williamleif/graphsage-simple/blob/master/graphsage/model.py)
